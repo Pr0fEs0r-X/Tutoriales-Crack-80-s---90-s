@@ -1,6 +1,6 @@
 # Tutoriales-Crack-2k17
 -----------------------------------------------------
-Bueno amigos aquí les dejo  el proyecto de tutoriales de Ingeniería Reversa que hice en los años 90´s para que tuvieramos en un solo lugar todos los tutoriales que hiban saliendo.
+Bueno amigos aquí les dejo  el proyecto de tutoriales de Ingeniería Reversa que hice en los años 90´s para que tuvieramos en un solo lugar todos los tutoriales que iban saliendo.
 ----------------------------------------------------
 Estos son los files de compilaciones de tutoriales de ingeniería reversa que hacia en aquellos años  y los tenia almacenados en un sitio muy concurrido y contaba con una activa comunidad. Teníamos especial éxito las compilaciones de cursos y manuales, como los Tutoriales Crack que hacía. 
 
