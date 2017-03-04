@@ -10,8 +10,7 @@ También proyectos colectivos de traducción, como las Cracker Notes de Tornado 
 
 También pondré  mi estudio que en los años 90´s hice sobre las WINAPIS de Windows :)), parece una locura verdad ??, pues no es tal la locura, esperenlo  ;p
 
- día de hoy es difícil consultar la mayoría de cursos y herramientas guardados en la web, ya que precisan contraseña para acceder a ellos. 
  
  ! DISFRUTENLOS !   OLD SCHOOL
  
- pR@FeSoR X  2K17
+ pR@FeSoR X   Since 1990 ;p
